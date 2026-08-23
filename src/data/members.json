@@ -1,0 +1,26 @@
+[
+  {
+    "name": "John Lester C. Sareno",
+    "role": "Project Leader",
+    "portfolio": "https://mynstp.my.canva.site/john-lester-sareno-portfolio?fbclid=IwY2xjawT3_9ZwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMWY4cXpXaUs0S2dqbUdPeWRzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeCnDRjRI0phMKS2YuUhXAOMfEI8Il70GheilRrgoZGV9Vwl7qJl_SKbVJrfc_aem_70Un4m_sxzJmKgb2x4exPw",
+    "img": "jl.jpg"
+  },
+  {
+    "name": "John Rhey V. Dahil",
+    "role": "Full Stack Developer",
+    "portfolio": "https://johnrheydahil-portfolio.vercel.app/?fbclid=IwY2xjawT3-htwZG9mBWV4dG4DYWVtAjEwAGJyaWQRMXVqc2RROGQwbjBEeUpacWNzcnRjBmFwcF9pZBAyMjIwMzkxNzg4MjAwODkyAAEeJOR7DhfhAJKXfGgVMgzYnXYwPEPFJxCunJ3wcTMAwbEGhDH4DgV44w6i4qQ_aem_SxwZRNAkaGNQ0cBJ6l0Eag",
+    "img": "jr.jpg"
+  },
+  {
+    "name": "Cyril Gaddi M. Delfin",
+    "role": "UI Designer",
+    "portfolio": "portfolioLink",
+    "img": "cg.jpg"
+  },
+  {
+    "name": "John Patrick V. Catapang",
+    "role": "UI Designer",
+    "portfolio": "portfolioLink",
+    "img": "jp.jpg"
+  }
+]
