@@ -177,6 +177,10 @@ const selectArtifact = (id, name) => {
 };
 
 const generateQR = async (artifacts) => {
+  if (!selectedArtifact.value.length) {
+    notyf.error("No selected artifact");
+    return;
+  }
   isLoading.value = true;
   try {
     const res = await api.post(
