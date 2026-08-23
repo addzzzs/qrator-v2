@@ -37,7 +37,7 @@ const getArtifacts = async () => {
       params = { searchKey: searchKey.value };
     }
     const res = await api.get(`/artifacts/${query}`, { params });
-    console.log(res.data);
+
     if (res.status == 200) {
       artifacts.value = res.data.artifacts;
     }
