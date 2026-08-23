@@ -9,7 +9,7 @@ const route = useRoute();
 const artifact = ref(null);
 const isLoading = ref(true);
 const notFound = ref(false);
-const imageBaseUrl = "http://localhost:4000/uploads/";
+const imageBaseUrl = "https://qrator-server.onrender.com/uploads/";
 
 const isAdmin = ref(false);
 
