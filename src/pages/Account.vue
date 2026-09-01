@@ -74,7 +74,7 @@ const changePassword = async () => {
 
   isChangingPassword.value = true;
   try {
-    const res = await api.patch("/users/change-password", {
+    const res = await api.patch("/users/change-pass", {
       current: currentPassword.value,
       password: newPassword.value,
       confirm: confirmNewPassword.value,
